@@ -1,0 +1,17 @@
+.cell
+{
+    display: inline-block;
+    width:22%;
+    text-align: center;
+    background-color: lightgray;
+    margin: 1px;
+
+}
+.header
+{
+    display: inline-block;
+    width:22%;
+    text-align: center;
+    background-color: lightgreen;
+    margin: 1px;
+}
